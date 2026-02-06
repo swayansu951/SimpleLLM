@@ -1,0 +1,7 @@
+transformers
+datasets
+trl
+peft
+pythorch (cpu)
+sentence_transformers
+difflib
